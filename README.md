@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adria-vidal
 - 👀 I’m interested in Front-End
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Python & Artificial Intelligence
 - 💞️ I’m looking to collaborate on Front-End projects
 - 📫 How to reach me adriavidal.develop@gmail.com
 
